@@ -1,0 +1,11 @@
+/Users/gege/Desktop/C#/DeckofCards/bin/Debug/netcoreapp2.1/DeckofCards.deps.json
+/Users/gege/Desktop/C#/DeckofCards/bin/Debug/netcoreapp2.1/DeckofCards.runtimeconfig.json
+/Users/gege/Desktop/C#/DeckofCards/bin/Debug/netcoreapp2.1/DeckofCards.runtimeconfig.dev.json
+/Users/gege/Desktop/C#/DeckofCards/bin/Debug/netcoreapp2.1/DeckofCards.dll
+/Users/gege/Desktop/C#/DeckofCards/bin/Debug/netcoreapp2.1/DeckofCards.pdb
+/Users/gege/Desktop/C#/DeckofCards/obj/Debug/netcoreapp2.1/DeckofCards.csprojAssemblyReference.cache
+/Users/gege/Desktop/C#/DeckofCards/obj/Debug/netcoreapp2.1/DeckofCards.csproj.CoreCompileInputs.cache
+/Users/gege/Desktop/C#/DeckofCards/obj/Debug/netcoreapp2.1/DeckofCards.AssemblyInfoInputs.cache
+/Users/gege/Desktop/C#/DeckofCards/obj/Debug/netcoreapp2.1/DeckofCards.AssemblyInfo.cs
+/Users/gege/Desktop/C#/DeckofCards/obj/Debug/netcoreapp2.1/DeckofCards.dll
+/Users/gege/Desktop/C#/DeckofCards/obj/Debug/netcoreapp2.1/DeckofCards.pdb
